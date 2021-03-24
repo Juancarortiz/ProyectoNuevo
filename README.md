@@ -5,4 +5,6 @@ kios
 kaban
 opero
 
-esta en Repositorio
+PERRO
+GATO 
+TORTUGA
